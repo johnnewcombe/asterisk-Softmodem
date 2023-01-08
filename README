@@ -22,7 +22,7 @@
 
 	To use do a 'make install' on your asterisk source or copy
 	apps/app_softmodem.so into your asterisk module directory
-	(/lib/asterisk/mosules).
+	(/lib/asterisk/modules).
 
 
  Dialplan
